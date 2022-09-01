@@ -6,3 +6,9 @@
 5. Create an empty file
 6. Add execute permission
 7. Add multiple permissions
+8. Add execute permission for everyone
+9. Set permission for other users only
+10. Set the mode of a file
+11. Add execute permission to subdirectories
+12. Create a directory with permissions
+13. Change group owner
