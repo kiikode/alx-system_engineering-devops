@@ -8,6 +8,7 @@
 7. Add multiple permissions
 8. Add execute permission for everyone
 9. Set permission for other users only
+10. Mirror file permissions
 10. Set the mode of a file
 11. Add execute permission to subdirectories
 12. Create a directory with permissions
