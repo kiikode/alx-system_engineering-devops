@@ -4,3 +4,5 @@
 3. Print all groups current user is part of
 4. Change owner of file
 5. Create an empty file
+6. Add execute permission
+7. Add multiple permissions
