@@ -6,3 +6,6 @@
 5. Display the last 10 lines of a file
 6. Display the first 10 lines of a file
 7. Display the 3rd line of a file
+8. Create a file with a text
+9. Overwrite a file with a command
+10. Duplicate the last line of a file
