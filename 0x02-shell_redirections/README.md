@@ -9,3 +9,5 @@
 8. Create a file with a text
 9. Overwrite a file with a command
 10. Duplicate the last line of a file
+11. Delete regular files in current directory and all subfolders
+12. Count the number of directories and sub directories
