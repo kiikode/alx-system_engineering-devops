@@ -11,3 +11,14 @@
 10. Duplicate the last line of a file
 11. Delete regular files in current directory and all subfolders
 12. Count the number of directories and sub directories
+13. Display newest files in current directory
+14. Take a list of words and print words that appear only once
+15. Display lines that contain a pattern in a file
+16. Display the number of lines that contain a pattern in a file
+17. Display lines containing a pattern a number of lines after them
+18. Display all the lines in a  file that do not contain a pattern
+19. Display all lines of a file starting with a letter
+20. Replace characters with new ones respectively
+21. Remove letters
+22. Reverse inputs
+23. Display all users and their home directories
