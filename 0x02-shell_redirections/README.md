@@ -24,3 +24,5 @@
 23. Display all users and their home directories
 24. Find all empty files and directories in current directory
 25. List all files with a specific extension in current directory
+26. Decode acrostics that use the first letter of each line
+27. Parse web servers logs in TSV format and display the 11 hosts which did the most requests
