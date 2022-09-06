@@ -23,3 +23,4 @@
 22. Reverse inputs
 23. Display all users and their home directories
 24. Find all empty files and directories in current directory
+25. List all files with a specific extension in current directory
