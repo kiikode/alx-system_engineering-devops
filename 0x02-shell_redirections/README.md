@@ -9,8 +9,8 @@
 8. Create a file with a text
 9. Overwrite a file with a command
 10. Duplicate the last line of a file
-11. Delete regular files in current directory and all subfolders
-12. Count the number of directories and sub directories
+11. Delete regular files in current directory and all sub-folders
+12. Count the number of directories and sub-directories
 13. Display newest files in current directory
 14. Take a list of words and print words that appear only once
 15. Display lines that contain a pattern in a file
@@ -22,3 +22,4 @@
 21. Remove letters
 22. Reverse inputs
 23. Display all users and their home directories
+24. Find all empty files and directories in current directory
